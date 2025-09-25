@@ -1,0 +1,55 @@
+#my-site{position:relative;
+    background-color: seagreen;
+    padding: 40px;
+    font-size: 30px;
+    color: antiquewhite;
+    
+
+}
+.link{
+    position: sticky;
+    top: 0;
+    color: seagreen;
+text-decoration: none;
+background-color:seagreen;
+padding:10px;
+text-align: center;
+background: transparen;
+font-size: 30px;
+list-style: none;
+list-style-type: none;
+}
+strong{
+    text-decoration: none;
+}
+
+footer{background-color: seagreen;
+    color: antiquewhite;
+    padding: 30px;
+
+}
+
+.text1{
+    color: wheat;
+
+}
+body{
+    background-color: green;
+}
+h2{
+    color: antiquewhite;
+    background-color: seagreen;
+    padding: 40px;
+    
+}
+
+.absolute{
+    position: absolute;
+    top: 35px;
+right: 70px;
+}
+#site{
+    text-decoration: none;
+    color: antiquewhite;
+}
+   
